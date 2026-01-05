@@ -4,8 +4,8 @@ The project is ongoing, and this submission documents the concepts learned and i
 **Week 1** – Foundations of AI for Healthcare
 
 **Topics Covered:**
-Introduction to AI applications in healthcare
-Role of medical imaging in diagnosis and screening
+Introduction to AI applications in healthcare,
+Role of medical imaging in diagnosis and screening,
 Ethical considerations and limitations of AI in healthcare
 
 
@@ -14,9 +14,9 @@ Ethical considerations and limitations of AI in healthcare
 **Notebook:** https://colab.research.google.com/drive/15Gr3UydbxL7EplYcpfUoBwJpph5vAWem?usp=sharing
 
 **Concepts Implemented:**
-Image representation and pixel manipulation
-Grayscale conversion and thresholding
-Basic filtering and preprocessing techniques
+Image representation and pixel manipulation,
+Grayscale conversion and thresholding,
+Basic filtering and preprocessing techniques,
 Understanding how preprocessing impacts downstream ML models
 
 This stage helped build intuition for how raw medical images are prepared before being used in deep learning models.
@@ -26,17 +26,18 @@ This stage helped build intuition for how raw medical images are prepared before
 **CNNs, Darknet, and YOLO (Theory)**
 
 **Concepts Studied:**
-Convolutional Neural Networks (CNNs)
-ImageNet and transfer learning
+Convolutional Neural Networks (CNNs),
+ImageNet and transfer learning,
 Popular CNN architectures: AlexNet, VGG, ResNet, EfficientNet
-Darknet framework and its role in early YOLO models
-YOLO architecture and modes (Train, Val, Predict)
+Darknet framework and its role in early YOLO models,
+YOLO architecture and modes (Train, Val, Predict).
 
 **Notebook:**https://colab.research.google.com/drive/1b-OztTpRLX8zbN3GvukA13IMnpq3ZU31?usp=sharing
 
 **Objective:**
 To gain practical exposure to YOLOv8 classification by training and evaluating a model on an image dataset.
-Implementation Details
+
+**Implementation Details**
 
 Model: YOLOv8 Nano Classification (yolov8n-cls),
 Framework: Ultralytics YOLOv8,
