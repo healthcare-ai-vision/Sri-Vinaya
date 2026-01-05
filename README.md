@@ -38,25 +38,25 @@ YOLO architecture and modes (Train, Val, Predict)
 To gain practical exposure to YOLOv8 classification by training and evaluating a model on an image dataset.
 Implementation Details
 
-Model: YOLOv8 Nano Classification (yolov8n-cls)
-Framework: Ultralytics YOLOv8
-Platform: Google Colab (GPU)
-Epochs: 10
+Model: YOLOv8 Nano Classification (yolov8n-cls),
+Framework: Ultralytics YOLOv8,
+Platform: Google Colab (GPU),
+Epochs: 10,
 Image Size: 224 × 224
 
-**Dataset**
+**Dataset:**
 Explored: Skin Disease Dataset (Roboflow)- https://app.roboflow.com/cxrdataset/skin-ga5ww/ 
 Implemented: CIFAR-10 (Ultralytics-supported)- https://www.cs.toronto.edu/~kriz/cifar.html
 
 Due to technical issues with dataset structure and ZIP handling while using the Roboflow dataset in Colab, a standard dataset was used at this stage to correctly demonstrate the YOLOv8 training and inference workflow.
 
-**Current Results** 
+**Current Results:** 
 Training loss decreases consistently across epochs
 Classification accuracy improves steadily
 Successful inference on sample test images
 Screenshots of training logs and prediction outputs are included in Result.pdf.
 
-**Learnings So Far**
+**Learnings So Far:**
 Fundamentals of image preprocessing
 Working of CNNs in vision tasks
 Practical understanding of YOLOv8 classification
