@@ -1,3 +1,6 @@
+**AI-VISION IN HEALTHCARE**
+_________________________________________________________________________________________________________________________________________________________________________________
+
 This repository contains the work for the AI for Healthcare project. The work combines foundational image processing concepts, CNN theory, and hands-on deep learning implementation using YOLOv8 for image classification.
 The project is ongoing, and this submission documents the concepts learned and implementations completed up to the midterm stage.
 
